@@ -10,10 +10,12 @@
     "react-scripts": "5.0.1"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "testcase": "node tests/test.js"
-  },
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "testcase": "node tests/test.js",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+},
   "eslintConfig": {
     "extends": [
       "react-app",
