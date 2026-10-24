@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RJS-P10/static/css/main.0ff0b107.css",
+    "main.js": "/RJS-P10/static/js/main.ad31acb2.js",
+    "index.html": "/RJS-P10/index.html",
+    "main.0ff0b107.css.map": "/RJS-P10/static/css/main.0ff0b107.css.map",
+    "main.ad31acb2.js.map": "/RJS-P10/static/js/main.ad31acb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ff0b107.css",
+    "static/js/main.ad31acb2.js"
+  ]
+}
